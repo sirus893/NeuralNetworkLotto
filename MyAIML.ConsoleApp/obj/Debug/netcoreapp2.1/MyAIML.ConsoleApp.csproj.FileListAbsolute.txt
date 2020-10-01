@@ -1,0 +1,15 @@
+C:\Users\prashanp\source\repos\MyAI\MyAIML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\prashanp\source\repos\MyAI\MyAIML.ConsoleApp\bin\Debug\netcoreapp2.1\MyAIML.ConsoleApp.deps.json
+C:\Users\prashanp\source\repos\MyAI\MyAIML.ConsoleApp\bin\Debug\netcoreapp2.1\MyAIML.ConsoleApp.runtimeconfig.json
+C:\Users\prashanp\source\repos\MyAI\MyAIML.ConsoleApp\bin\Debug\netcoreapp2.1\MyAIML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\prashanp\source\repos\MyAI\MyAIML.ConsoleApp\bin\Debug\netcoreapp2.1\MyAIML.ConsoleApp.dll
+C:\Users\prashanp\source\repos\MyAI\MyAIML.ConsoleApp\bin\Debug\netcoreapp2.1\MyAIML.ConsoleApp.pdb
+C:\Users\prashanp\source\repos\MyAI\MyAIML.ConsoleApp\bin\Debug\netcoreapp2.1\MyAIML.Model.dll
+C:\Users\prashanp\source\repos\MyAI\MyAIML.ConsoleApp\bin\Debug\netcoreapp2.1\MyAIML.Model.pdb
+C:\Users\prashanp\source\repos\MyAI\MyAIML.ConsoleApp\obj\Debug\netcoreapp2.1\MyAIML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\prashanp\source\repos\MyAI\MyAIML.ConsoleApp\obj\Debug\netcoreapp2.1\MyAIML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\prashanp\source\repos\MyAI\MyAIML.ConsoleApp\obj\Debug\netcoreapp2.1\MyAIML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\prashanp\source\repos\MyAI\MyAIML.ConsoleApp\obj\Debug\netcoreapp2.1\MyAIML.ConsoleApp.AssemblyInfo.cs
+C:\Users\prashanp\source\repos\MyAI\MyAIML.ConsoleApp\obj\Debug\netcoreapp2.1\MyAIML.ConsoleApp.csproj.CopyComplete
+C:\Users\prashanp\source\repos\MyAI\MyAIML.ConsoleApp\obj\Debug\netcoreapp2.1\MyAIML.ConsoleApp.dll
+C:\Users\prashanp\source\repos\MyAI\MyAIML.ConsoleApp\obj\Debug\netcoreapp2.1\MyAIML.ConsoleApp.pdb

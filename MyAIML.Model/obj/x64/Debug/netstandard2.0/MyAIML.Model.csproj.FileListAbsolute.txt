@@ -1,0 +1,9 @@
+C:\Users\prashanp\source\repos\MyAI\MyAIML.Model\bin\x64\Debug\netstandard2.0\MLModel.zip
+C:\Users\prashanp\source\repos\MyAI\MyAIML.Model\bin\x64\Debug\netstandard2.0\MyAIML.Model.deps.json
+C:\Users\prashanp\source\repos\MyAI\MyAIML.Model\bin\x64\Debug\netstandard2.0\MyAIML.Model.dll
+C:\Users\prashanp\source\repos\MyAI\MyAIML.Model\bin\x64\Debug\netstandard2.0\MyAIML.Model.pdb
+C:\Users\prashanp\source\repos\MyAI\MyAIML.Model\obj\x64\Debug\netstandard2.0\MyAIML.Model.csproj.CoreCompileInputs.cache
+C:\Users\prashanp\source\repos\MyAI\MyAIML.Model\obj\x64\Debug\netstandard2.0\MyAIML.Model.AssemblyInfoInputs.cache
+C:\Users\prashanp\source\repos\MyAI\MyAIML.Model\obj\x64\Debug\netstandard2.0\MyAIML.Model.AssemblyInfo.cs
+C:\Users\prashanp\source\repos\MyAI\MyAIML.Model\obj\x64\Debug\netstandard2.0\MyAIML.Model.dll
+C:\Users\prashanp\source\repos\MyAI\MyAIML.Model\obj\x64\Debug\netstandard2.0\MyAIML.Model.pdb
